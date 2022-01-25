@@ -1,0 +1,1 @@
+Projeto criado usando o formulário do HTML e CSS para estiliza-lo. Trata-se de uma inscrição para uma peneira de futebol onde o participante registra seus dados e manda para o organizador do evento. PROJETO EM CONSTRUÇÃO.
